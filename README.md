@@ -11,4 +11,5 @@ Code Decrypter
 - Able to decrypt code from Code Generator Version 2 given the correct phrase and numeric key
 
 Rock, Paper, Scissors(V1) - Creates a random game of rock, paper, scissors with a track of the points scored by either side
+
 Rock, Paper, Scissors(Cheat) - Creates an unwinnable game of rock, paper, scissors
