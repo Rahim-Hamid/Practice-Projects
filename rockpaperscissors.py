@@ -6,12 +6,12 @@ computer = lis[randint(0, 2)]
 
 
 player = True
-
+player_win = 0
+computer_win = 0
 
 while True:
 
-    player_win = 0
-    computer_win = 0
+    
 
 
     player = input("Rock, Paper or Scissors: ")
